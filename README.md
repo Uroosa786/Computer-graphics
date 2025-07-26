@@ -1,8 +1,10 @@
-# Aasiya Qadri 40263011
-#Uroosa Lakhani 40227274
-# Ashraqat Mansour 40276570
+
 
 # Solar System with Shooting Stars – OpenGL Application
+
+Aasiya Qadri 40263011
+Uroosa Lakhani 40227274
+Ashraqat Mansour 40276570
 
 This application demonstrates a basic 3D solar system simulation using OpenGL. The scene features a textured Earth and Moon orbiting a glowing Sun, with randomly generated dynamic shooting stars. The camera system allows full navigation using both the keyboard and mouse.
 
