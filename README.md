@@ -1,3 +1,6 @@
+# Aasiya Qadri 40263011
+#Uroosa Lakhani 40227274
+# Ashraqat Mansour 40276570
 
 # Solar System with Shooting Stars – OpenGL Application
 
